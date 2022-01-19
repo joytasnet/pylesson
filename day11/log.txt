@@ -1,0 +1,73 @@
+* d6b47c4  (HEAD -> dev) 2022-01-18 mjpurin c7_1ファイルの書き込み
+* 69be985  (origin/master, master) 2022-01-18 mjpurin day10追加
+* 23b1931  2022-01-17 mjpurin day9追加
+* 5913086  2022-01-14 mjpurin c6_6追加 等価と等値(同一存在)
+* e3787ec  2022-01-14 mjpurin c6_5追加Pythonでのクラス
+* 4f67e18  2022-01-14 mjpurin col1.py追加
+* 22e23ea  2022-01-14 mjpurin c6_3追加
+* ff306cc  2022-01-14 mjpurin day8追加
+* ab61c19  2022-01-13 mjpurin 演習問題追加
+* 88fb1a7  2022-01-11 mjpurin global変数について
+* 898c5f7  2022-01-11 mjpurin col1追加 引数にdictを受け取る関数の作成 通常の引数でのdictの受け渡しも追記
+* e89c85d  2022-01-11 mjpurin 演習問題追加
+* 41e9a23  2022-01-07 mjpurin c5_22,c5_24,c5_29追加 デフォルト引数、キーワード引数、可変長引数
+* 1810c0f  2022-01-07 mjpurin c5_18追加 タプルの戻り値とアンパック代入
+* f4013ab  2022-01-07 mjpurin c5_16追加 メソッドを使った得点処理
+* eedd156  2022-01-07 mjpurin c5_7追加 関数の定義と実行
+* 5651560  2022-01-07 mjpurin c5_3追加 関数の基礎
+* 4b30543  2022-01-07 mjpurin 演習問題追加
+* fb37613  2022-01-06 mjpurin c4_11追加 continueでループを1回スキップすることができる isinstance(対象,型)で対象がその型なのかを判定できる
+* 2509fad  2022-01-06 mjpurin c4_10追加 breakを使うと直近のループを抜ける Javaもjsも同じ
+* cc38620  2022-01-06 mjpurin c4_8追加 回数だけに興味があるforループにはrange()関数を使う
+* d523409  2022-01-06 mjpurin c4_7追加 リストとfor文 Javaの拡張for for(int data : scores){} と考え方似ている
+* 9e41c9f  2022-01-06 mjpurin c4_6追加 while文によるリストの走査 (あまりやらない)
+* 1c909d3  2022-01-06 mjpurin c4_5追加 while文とリスト
+* 5b6e974  2022-01-06 mjpurin c4_2追加 while文の基礎
+* f10061d  2022-01-06 mjpurin ex3_3,col1追加 if文演習、三項演算子
+* a74c1f2  2022-01-06 mjpurin c3_10追加 ネストしたif文演習
+* f87df2a  2022-01-06 mjpurin c3_9追加 ||はor else if は elif など微妙な差があるので注意
+* a85d905  2021-12-28 mjpurin ex1追加 if文の練習
+* 957366c  2021-12-28 mjpurin ccol3追加 pythonは変数の挟み込みOK 60 <= score <=100
+* 36b7d2b  2021-12-28 mjpurin ccol2追加 notで意味を反転 if not a in b: if a not in b: は同意
+* c0ee127  2021-12-28 mjpurin c3_7追加 条件式の評価結果は真偽値(True,False)のいずれかに置き換わる
+* f2e75a0  2021-12-28 mjpurin c3_6追加 in にdictを使った場合はkeyが検索される
+* b86b7f6  2021-12-28 mjpurin c3_4追加 in の使い方
+* b72aeb2  2021-12-28 mjpurin c3_2追加 if文基礎
+* 49ad9db  2021-12-28 mjpurin ccol追加 パイソンの改行について
+* b33745a  2021-12-28 mjpurin Ex2_2変更 JSだった場合の処理追加
+* 9f4728e  2021-12-28 mjpurin 演習問題解答追加
+* e6edc19  2021-12-27 mjpurin c2_28追加 4つの集合演算
+* aa0124b  2021-12-27 mjpurin c2_27追加 セットの積集合
+* ddc26c1  2021-12-27 mjpurin c2_26追加 2次元リストc2_26追加
+* cb75793  2021-12-27 mjpurin c2_25追加 ディクショナリの中にセットをネスト
+* 538cdf5  2021-12-27 mjpurin c2_24追加 dictionaryのネスト
+* ecd864d  2021-12-27 mjpurin c2_23追加 コレクションの相互変換
+* 24a1d16  2021-12-27 mjpurin c2_22追加 セットの利用
+* ef2c74e  2021-12-27 mjpurin c2_21追加 要素数が１つのタプルの作り方 tuple関数を使った方法もある
+* cbf0afe  2021-12-27 mjpurin c2_17追加 タプルは要素の変更ができないことを確認
+* aa3536c  2021-12-27 mjpurin c2_16col追加 dictionaryのvalueの合計の求め方
+* 34af6b7  2021-12-27 mjpurin c2_16追加 dictionary要素の削除
+* 0219c3e  2021-12-27 mjpurin c2_15追加 dictionary要素の追加と変更
+* 8d2d31e  2021-12-27 mjpurin c2_14追加 dictionaryの参照
+* e9d29fe  2021-12-27 mjpurin C2_13.java追加 Javaでハッシュマップの復習
+* 7521a6f  2021-12-27 mjpurin c2_13追加 ディクショナリとは
+* 57833a2  2021-12-27 mjpurin day3追加その他
+* a820d2d  2021-12-24 mjpurin c2_11追加フォルダ移動
+* f8792bb  2021-12-24 mjpurin c2_11追加 スライス表現や負のインデックスについて
+* 4e905ee  2021-12-24 mjpurin c2_2追加 listの基本
+* e4909a4  2021-12-24 mjpurin c1_22追加 format関数,fストリング
+* 9cb2878  2021-12-24 mjpurin c1_19追加 型変換の練習
+* f61f29b  2021-12-24 mjpurin c1_17追加 type()を使っての型の確認
+* 8cfea8b  2021-12-24 mjpurin c1_15追加 割り勘プログラムで型違いによるエラーを体験&修正
+* b9a3a6c  2021-12-24 mjpurin c1_14,Code1_14作成 pythonでのキーボード入力と Javaでの入力の違いを体験
+* 769a084  2021-12-24 mjpurin c1_10とc1_12追加 アンパック代入&自己代入
+* e9ff291  2021-12-23 mjpurin c1_9 変数の再代入について Pythonの予約語について
+* dc92df6  2021-12-23 mjpurin c1_8追加 変数の使い回しについて学習
+* 92a54db  2021-12-23 mjpurin c1_7追加
+* d9fb629  2021-12-23 mjpurin c1_5追加
+* 7d7af5f  2021-12-23 mjpurin c1_4追加
+* 41c0d1b  2021-12-23 mjpurin c1_3追加'
+* 1bde054  2021-12-23 mjpurin c1_2変更その他
+* ac5b4d2  2021-12-23 mjpurin c1_2追加
+* bc5ba8f  2021-12-23 mjpurin c1_1追加
+* 923bab8  2021-12-23 mjpurin code1_1作成
